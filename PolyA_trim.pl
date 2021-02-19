@@ -1,4 +1,4 @@
-##polyA去除的标准：
+##remove polyA/T reads：
 #	default parameters:
 #		1、poly(A/T)>=30%;
 #		2、AT content >= 80%;
@@ -63,7 +63,7 @@ for my $file(@file_name){
 }
 
 
-#poly的判断,如果满足输出需求返回1,被过滤输出0;
+## identify the polyA/T reads.
 sub polytrim{
 	my @char;
 	my $value=1;
