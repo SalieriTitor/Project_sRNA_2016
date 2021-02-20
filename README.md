@@ -36,4 +36,4 @@ for figure drawing:
   mhtplot.pl was used to draw Manhattan plots in figure S3
   Maize_V4_eQTL_map_drawing.pl was used to draw figure S4a
 
-Because of the different system configuration, these custom scripts may not word well sometimes. Meanwhile, some modules of perl must be intalled in advance. If there is any questions, please contact 806289014@qq.com
+Because of the different system configuration, these custom scripts may not word well sometimes. Meanwhile, some modules of perl must be intalled in advance. If there are any questions, please contact 806289014@qq.com
